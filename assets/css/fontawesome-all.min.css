@@ -3,7 +3,10 @@
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
 
-
+a {
+  text-decoration: none;
+  color: black;
+}
 
 
 
